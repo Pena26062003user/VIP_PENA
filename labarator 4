@@ -1,0 +1,543 @@
+<section id="gc-wrapper" style="margin-top: 49px;">
+        <main role="main" id="main-content" class="devsite-main-content">
+          <div class="devsite-sidebar" fixed="" style="--devsite-js-sidebar-max-height: 848px; --devsite-js-sidebar-offset: 0;">
+            <div class="devsite-sidebar-content">
+                
+                <devsite-toc class="devsite-nav devsite-toc" role="navigation" aria-label="On this page" depth="2" scrollbars="" disabled="" hidden=""></devsite-toc>
+                <devsite-recommendations-sidebar class="nocontent devsite-nav">
+                </devsite-recommendations-sidebar>
+            </div>
+          </div>
+          <devsite-content>
+            
+              
+
+
+
+
+
+
+
+
+
+
+
+
+<article class="devsite-article"><style>
+      /* Styles inlined from /css/landing.css */
+/* Temporary style changes for landing pages */
+
+.devsite-card-summary {
+  max-height: initial;
+}
+
+.devsite-landing-row-item-list-item-buttons {
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.devsite-landing-row-item-list-item-buttons a.button-white {
+  width: 100%;
+  text-align: left;
+}
+
+fieldset.catalog-checkbox-controls-group:after {
+  display: none;
+}
+
+.dcc-hero-heading h2 {
+  font-size: 600%;
+  line-height: 1.1;
+  color: var(--chrome-primary);
+}
+      </style>
+  
+  
+  
+  
+  
+
+  <div class="devsite-article-meta nocontent" role="navigation">
+    
+    
+    <ul class="devsite-breadcrumb-list" aria-label="Breadcrumb">
+  
+  <li class="devsite-breadcrumb-item
+             ">
+    
+    
+    
+      
+  <a href="https://developer.chrome.com/" class="devsite-breadcrumb-link gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Breadcrumbs" data-value="1" track-type="globalNav" track-name="breadcrumb" track-metadata-position="1" track-metadata-eventdetail="Chrome for Developers">
+    
+        Chrome for Developers
+      
+  </a>
+  
+    
+  </li>
+  
+  <li class="devsite-breadcrumb-item
+             ">
+    
+      
+      <div class="devsite-breadcrumb-guillemet material-icons" aria-hidden="true"></div>
+    
+    
+    
+      
+  <a href="https://developer.chrome.com/case-studies" class="devsite-breadcrumb-link gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Breadcrumbs" data-value="2" track-type="globalNav" track-name="breadcrumb" track-metadata-position="2" track-metadata-eventdetail="Case studies">
+    
+        Case studies
+      
+  </a>
+  
+    
+  </li>
+  
+</ul>
+    
+  </div>
+  
+  
+    
+  
+
+  <devsite-toc class="devsite-nav" depth="2" devsite-toc-embedded="" disabled="" hidden=""></devsite-toc>
+  
+    
+  <div class="devsite-article-body clearfix
+  ">
+
+  
+    
+  <section class="devsite-landing-row devsite-landing-row-1-up devsite-landing-row-50 devsite-landing-row-large-headings" background="white" header-position="top">
+    <div class="devsite-landing-row-inner">
+
+    
+      
+
+      
+      
+
+      
+
+        <div class="devsite-landing-row-group">
+        
+          <div class="devsite-landing-row-item devsite-landing-row-item-no-media" description-position="bottom">
+
+  
+    
+
+    
+    <div class="devsite-landing-row-item-description" icon-position="left">
+
+      
+  
+    
+  <div class="devsite-landing-row-item-icon-container" background="blue" size="medium">
+  
+    <div class="devsite-landing-row-item-icon material-icons" aria-hidden="true">
+      lightbulb
+    </div>
+  
+  </div>
+  
+  
+
+
+      <div class="devsite-landing-row-item-body">
+        
+
+        
+    <h3 id="get-inspired-with-our-case-studies" data-text="Get inspired with our case studies" class="hide-from-toc no-link" tabindex="-1">
+      
+    
+        Get inspired with our case studies
+      
+  
+    </h3>
+  
+
+        
+          <div class="devsite-landing-row-item-description-content">
+            <p>Read these case studies to find inspiration for your next project with Chrome.</p>
+
+          </div>
+        
+
+        
+
+        
+      </div>
+    </div>
+    
+  
+
+</div>
+        
+        </div>
+      
+
+    
+    </div>
+  </section>
+
+  <section class="devsite-landing-row devsite-landing-row-1-up" header-position="top">
+    <div class="devsite-landing-row-inner">
+
+    
+      <div class="devsite-landing-row-html">
+        <devsite-dynamic-content initial-results="18" link-type="button" button-label="Read the study" items-per-page="9" items-across="3" maxresults="500" query="type:case_study" fields="title image summary tags author date" template="card" categories=""><div class="dynamic-content-inner"><devsite-sort sort-elements=".devsite-card-wrapper" sort-attribute="ranking" ancestor="dynamic-content-inner"><div class="devsite-card-group" dynamic-card-style="card"><div class="devsite-card-wrapper" ranking="0" displaytitle="Build a guessing game with the Prompt API" image="https://developer.chrome.com/static/blog/ai-guessing-game/image/hero.png" iconpath="https://www.gstatic.com/images/branding/productlogos/chrome/v7/192px.svg" iconname="" iconbackgroundcolor="" iconforegroundcolor="" url="https://developer.chrome.com/blog/ai-guessing-game?hl=en" summary="My game of Guess Who demonstrates how AI can be used to build thoughtful game logic, and the importance of prompt engineering to get the outcomes you expect." displayorigin="" origin="" timestamp="1760079600" formattedtimestamp="October 10, 2025" project="Blog" public="true" attribution="Brecht De Ruyte" authorname="Brecht De Ruyte" type="case_study" displaytype="Case study" categories="" durationminutes="0" formattedduration="" apireferences="" lifecyclestate="" keywords="googleai,chromebuiltinai,chrome,casestudy,javascript,aiandmachinelearning,interest,web" category="chromebuiltinai,aiandmachinelearning,interest,web" product="chrome" doctype="casestudy" language="javascript" display-tag-doctype="Case study" display-tag-category="AI &amp; Machine Learning" display-tag-product="Chrome" display-tag-language="JavaScript"><div class="devsite-card" dynamic-card-timestamp="1760079600"><a href="https://developer.chrome.com/blog/ai-guessing-game?hl=en" class="devsite-card-image-container devsite-card-image-no-background" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="" track-metadata-elementtype="cardImage" track-metadata-position="0" aria-hidden="true" tabindex="-1"><img src="https://developer.chrome.com/static/blog/ai-guessing-game/image/hero.png" class="devsite-card-image" loading="lazy" alt=""></a><div class="devsite-card-content-wrapper"><div class="devsite-card-content"><h3 class="no-link hide-from-toc">Build a guessing game with the Prompt API</h3><p class="devsite-card-summary">My game of Guess Who demonstrates how AI can be used to build thoughtful game logic, and the importance of prompt engineering to get the outcomes you expect.</p><ul class="devsite-dynamic-content-display-tag-container"><li class="devsite-label devsite-label-display-tag-category">AI &amp; Machine Learning</li><li class="devsite-label devsite-label-display-tag-doctype">Case study</li><li class="devsite-label devsite-label-display-tag-language">JavaScript</li><li class="devsite-label devsite-label-display-tag-product">Chrome</li></ul></div><div class="devsite-card-attribution"><div class="devsite-card-attribution-text-container"><p class="devsite-card-attribution-author">Brecht De Ruyte</p><p class="devsite-card-attribution-date">October 10, 2025</p></div></div><div class="devsite-card-section"><div class="devsite-card-buttons"><a href="https://developer.chrome.com/blog/ai-guessing-game?hl=en" class="button" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="CardButton" track-metadata-elementtype="cardButton" track-metadata-position="0" aria-label="Read the study - Build a guessing game with the Prompt API">Read the study</a></div></div></div></div></div><div class="devsite-card-wrapper" ranking="1" displaytitle="Seamless and private user authentication with FedCM: Seznam's approach" image="https://developer.chrome.com/static/blog/private-user-authentication-fedcm-seznam/image/hero.png" iconpath="https://www.gstatic.com/images/branding/productlogos/chrome/v7/192px.svg" iconname="" iconbackgroundcolor="" iconforegroundcolor="" url="https://developer.chrome.com/blog/private-user-authentication-fedcm-seznam?hl=en" summary="Learn how Seznam integrated the FedCM API into their existing OAuth solution, detailing the implementation process, the challenges faced, and the benefits for their users and partners." displayorigin="" origin="" timestamp="1757314800" formattedtimestamp="September 8, 2025" project="Blog" public="true" attribution="Natalia Markoborodova" authorname="Natalia Markoborodova" type="case_study" displaytype="Case study" categories="" durationminutes="0" formattedduration="" apireferences="" lifecyclestate="" keywords="chrome,casestudy,javascript,identity,fedcm,interest,web" product="chrome,fedcm" doctype="casestudy" language="javascript" category="identity,interest,web" display-tag-doctype="Case study" display-tag-category="Identity" display-tag-language="JavaScript" display-tag-product="Chrome"><div class="devsite-card" dynamic-card-timestamp="1757314800"><a href="https://developer.chrome.com/blog/private-user-authentication-fedcm-seznam?hl=en" class="devsite-card-image-container devsite-card-image-no-background" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="" track-metadata-elementtype="cardImage" track-metadata-position="1" aria-hidden="true" tabindex="-1"><img src="https://developer.chrome.com/static/blog/private-user-authentication-fedcm-seznam/image/hero.png" class="devsite-card-image" loading="lazy" alt=""></a><div class="devsite-card-content-wrapper"><div class="devsite-card-content"><h3 class="no-link hide-from-toc">Seamless and private user authentication with FedCM: Seznam's approach</h3><p class="devsite-card-summary">Learn how Seznam integrated the FedCM API into their existing OAuth solution, detailing the implementation process, the challenges faced, and the benefits for their users and partners.</p><ul class="devsite-dynamic-content-display-tag-container"><li class="devsite-label devsite-label-display-tag-category">Identity</li><li class="devsite-label devsite-label-display-tag-doctype">Case study</li><li class="devsite-label devsite-label-display-tag-language">JavaScript</li><li class="devsite-label devsite-label-display-tag-product">Chrome</li></ul></div><div class="devsite-card-attribution"><div class="devsite-card-attribution-text-container"><p class="devsite-card-attribution-author">Natalia Markoborodova</p><p class="devsite-card-attribution-date">September 8, 2025</p></div></div><div class="devsite-card-section"><div class="devsite-card-buttons"><a href="https://developer.chrome.com/blog/private-user-authentication-fedcm-seznam?hl=en" class="button" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="CardButton" track-metadata-elementtype="cardButton" track-metadata-position="1" aria-label="Read the study - Seamless and private user authentication with FedCM: Seznam's approach">Read the study</a></div></div></div></div></div><div class="devsite-card-wrapper" ranking="2" displaytitle="How Google created a connected experience for its new AI Mode using view transitions" image="https://developer.chrome.com/static/blog/google-ai-mode-view-transitions-case-study/image/search-vt-thumb.png" iconpath="https://www.gstatic.com/images/branding/productlogos/chrome/v7/192px.svg" iconname="" iconbackgroundcolor="" iconforegroundcolor="" url="https://developer.chrome.com/blog/google-ai-mode-view-transitions-case-study?hl=en" summary="Bridging the gap between MPA and SPA: Making the transition into Google Search AI Mode feel seamless and connected with cross-document view transitions." displayorigin="" origin="" timestamp="1756364400" formattedtimestamp="August 28, 2025" project="Blog" public="true" attribution="Jason Michelson, Bramus" authorname="Jason Michelson, Bramus" type="case_study" displaytype="Case study" categories="" durationminutes="0" formattedduration="" apireferences="" lifecyclestate="" keywords="css,html,casestudy,chrome,javascript,interest,web" language="css,html,javascript" doctype="casestudy" product="chrome" category="interest,web" display-tag-doctype="Case study" display-tag-language="CSS,HTML,JavaScript" display-tag-product="Chrome"><div class="devsite-card" dynamic-card-timestamp="1756364400"><a href="https://developer.chrome.com/blog/google-ai-mode-view-transitions-case-study?hl=en" class="devsite-card-image-container devsite-card-image-no-background" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="" track-metadata-elementtype="cardImage" track-metadata-position="2" aria-hidden="true" tabindex="-1"><img src="https://developer.chrome.com/static/blog/google-ai-mode-view-transitions-case-study/image/search-vt-thumb.png" class="devsite-card-image" loading="lazy" alt=""></a><div class="devsite-card-content-wrapper"><div class="devsite-card-content"><h3 class="no-link hide-from-toc">How Google created a connected experience for its new AI Mode using view transitions</h3><p class="devsite-card-summary">Bridging the gap between MPA and SPA: Making the transition into Google Search AI Mode feel seamless and connected with cross-document view transitions.</p><ul class="devsite-dynamic-content-display-tag-container"><li class="devsite-label devsite-label-display-tag-doctype">Case study</li><li class="devsite-label devsite-label-display-tag-language">CSS</li><li class="devsite-label devsite-label-display-tag-language">HTML</li><li class="devsite-label devsite-label-display-tag-language">JavaScript</li><li class="devsite-label devsite-label-display-tag-product">Chrome</li></ul></div><div class="devsite-card-attribution"><div class="devsite-card-attribution-text-container"><p class="devsite-card-attribution-author">Jason Michelson, Bramus</p><p class="devsite-card-attribution-date">August 28, 2025</p></div></div><div class="devsite-card-section"><div class="devsite-card-buttons"><a href="https://developer.chrome.com/blog/google-ai-mode-view-transitions-case-study?hl=en" class="button" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="CardButton" track-metadata-elementtype="cardButton" track-metadata-position="2" aria-label="Read the study - How Google created a connected experience for its new AI Mode using view transitions">Read the study</a></div></div></div></div></div><div class="devsite-card-wrapper" ranking="3" displaytitle="Rethink web permissions: Seamless user control of powerful capabilities with Chrome's new proposed &lt;permission&gt; element" image="https://developer.chrome.com/static/blog/rethinking-web-permissions/cover.png" iconpath="https://www.gstatic.com/images/branding/productlogos/chrome/v7/192px.svg" iconname="" iconbackgroundcolor="" iconforegroundcolor="" url="https://developer.chrome.com/blog/rethinking-web-permissions?hl=en" summary="Learn how Chrome's new proposed &lt;permission&gt; element creates a more streamlined, trustworthy and in-context permission experience." displayorigin="" origin="" timestamp="1750057200" formattedtimestamp="June 16, 2025" project="Blog" public="true" attribution="Minh Le" authorname="Minh Le" type="case_study" displaytype="Case study" categories="" durationminutes="0" formattedduration="" apireferences="" lifecyclestate="" keywords="casestudy,chrome,web,interest" doctype="casestudy" product="chrome" category="web,interest" display-tag-product="Chrome" display-tag-doctype="Case study"><div class="devsite-card" dynamic-card-timestamp="1750057200"><a href="https://developer.chrome.com/blog/rethinking-web-permissions?hl=en" class="devsite-card-image-container devsite-card-image-no-background" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="" track-metadata-elementtype="cardImage" track-metadata-position="3" aria-hidden="true" tabindex="-1"><img src="https://developer.chrome.com/static/blog/rethinking-web-permissions/cover.png" class="devsite-card-image" loading="lazy" alt=""></a><div class="devsite-card-content-wrapper"><div class="devsite-card-content"><h3 class="no-link hide-from-toc">Rethink web permissions: Seamless user control of powerful capabilities with Chrome's new proposed &lt;permission&gt; element</h3><p class="devsite-card-summary">Learn how Chrome's new proposed &lt;permission&gt; element creates a more streamlined, trustworthy and in-context permission experience.</p><ul class="devsite-dynamic-content-display-tag-container"><li class="devsite-label devsite-label-display-tag-doctype">Case study</li><li class="devsite-label devsite-label-display-tag-product">Chrome</li></ul></div><div class="devsite-card-attribution"><div class="devsite-card-attribution-text-container"><p class="devsite-card-attribution-author">Minh Le</p><p class="devsite-card-attribution-date">June 16, 2025</p></div></div><div class="devsite-card-section"><div class="devsite-card-buttons"><a href="https://developer.chrome.com/blog/rethinking-web-permissions?hl=en" class="button" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="CardButton" track-metadata-elementtype="cardButton" track-metadata-position="3" aria-label="Read the study - Rethink web permissions: Seamless user control of powerful capabilities with Chrome's new proposed &lt;permission&gt; element">Read the study</a></div></div></div></div></div><div class="devsite-card-wrapper" ranking="4" displaytitle="Empowering bloggers: How CyberAgent deployed built-in AI to enhance content creation" image="https://developer.chrome.com/static/blog/prompt-api-blog-cyberagent/images/new-cover.png" iconpath="https://www.gstatic.com/images/branding/productlogos/chrome/v7/192px.svg" iconname="" iconbackgroundcolor="" iconforegroundcolor="" url="https://developer.chrome.com/blog/prompt-api-blog-cyberagent?hl=en" summary="Discover how CyberAgent, a leading Japanese internet company, uses the Prompt API to enhance blogging on Ameba Blog." displayorigin="" origin="" timestamp="1747810800" formattedtimestamp="May 21, 2025" project="Blog" public="true" attribution="Yuriko Hirota" authorname="Yuriko Hirota" type="case_study" displaytype="Case study" categories="" durationminutes="0" formattedduration="" apireferences="" lifecyclestate="" keywords="javascript,chrome,googleai,chromebuiltinai,aiandmachinelearning,casestudy,interest,web" language="javascript" product="chrome" category="chromebuiltinai,aiandmachinelearning,interest,web" doctype="casestudy" display-tag-category="AI &amp; Machine Learning" display-tag-language="JavaScript" display-tag-doctype="Case study" display-tag-product="Chrome"><div class="devsite-card" dynamic-card-timestamp="1747810800"><a href="https://developer.chrome.com/blog/prompt-api-blog-cyberagent?hl=en" class="devsite-card-image-container devsite-card-image-no-background" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="" track-metadata-elementtype="cardImage" track-metadata-position="4" aria-hidden="true" tabindex="-1"><img src="https://developer.chrome.com/static/blog/prompt-api-blog-cyberagent/images/new-cover.png" class="devsite-card-image" loading="lazy" alt=""></a><div class="devsite-card-content-wrapper"><div class="devsite-card-content"><h3 class="no-link hide-from-toc">Empowering bloggers: How CyberAgent deployed built-in AI to enhance content creation</h3><p class="devsite-card-summary">Discover how CyberAgent, a leading Japanese internet company, uses the Prompt API to enhance blogging on Ameba Blog.</p><ul class="devsite-dynamic-content-display-tag-container"><li class="devsite-label devsite-label-display-tag-category">AI &amp; Machine Learning</li><li class="devsite-label devsite-label-display-tag-doctype">Case study</li><li class="devsite-label devsite-label-display-tag-language">JavaScript</li><li class="devsite-label devsite-label-display-tag-product">Chrome</li></ul></div><div class="devsite-card-attribution"><div class="devsite-card-attribution-text-container"><p class="devsite-card-attribution-author">Yuriko Hirota</p><p class="devsite-card-attribution-date">May 21, 2025</p></div></div><div class="devsite-card-section"><div class="devsite-card-buttons"><a href="https://developer.chrome.com/blog/prompt-api-blog-cyberagent?hl=en" class="button" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="CardButton" track-metadata-elementtype="cardButton" track-metadata-position="4" aria-label="Read the study - Empowering bloggers: How CyberAgent deployed built-in AI to enhance content creation">Read the study</a></div></div></div></div></div><div class="devsite-card-wrapper" ranking="5" displaytitle="The Summarizer API helps Bright Sites and Terra create engaging article summaries" image="https://developer.chrome.com/static/blog/summarizer-terra-brightsites/image/hero.png" iconpath="https://www.gstatic.com/images/branding/productlogos/chrome/v7/192px.svg" iconname="" iconbackgroundcolor="" iconforegroundcolor="" url="https://developer.chrome.com/blog/summarizer-terra-brightsites?hl=en" summary="Sharing article summaries is a key strategy to condense complex information into accessible snippets. The Summarizer API helped these publishers create better summaries, client-side." displayorigin="" origin="" timestamp="1747292400" formattedtimestamp="May 15, 2025" project="Blog" public="true" attribution="Mari Viana" authorname="Mari Viana" type="case_study" displaytype="Case study" categories="" durationminutes="0" formattedduration="" apireferences="" lifecyclestate="" keywords="casestudy,aiandmachinelearning,googleai,javascript,chrome,web,interest" doctype="casestudy" category="aiandmachinelearning,web,interest" language="javascript" product="chrome" display-tag-category="AI &amp; Machine Learning" display-tag-language="JavaScript" display-tag-doctype="Case study" display-tag-product="Chrome"><div class="devsite-card" dynamic-card-timestamp="1747292400"><a href="https://developer.chrome.com/blog/summarizer-terra-brightsites?hl=en" class="devsite-card-image-container devsite-card-image-no-background" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="" track-metadata-elementtype="cardImage" track-metadata-position="5" aria-hidden="true" tabindex="-1"><img src="https://developer.chrome.com/static/blog/summarizer-terra-brightsites/image/hero.png" class="devsite-card-image" loading="lazy" alt=""></a><div class="devsite-card-content-wrapper"><div class="devsite-card-content"><h3 class="no-link hide-from-toc">The Summarizer API helps Bright Sites and Terra create engaging article summaries</h3><p class="devsite-card-summary">Sharing article summaries is a key strategy to condense complex information into accessible snippets. The Summarizer API helped these publishers create better summaries, client-side.</p><ul class="devsite-dynamic-content-display-tag-container"><li class="devsite-label devsite-label-display-tag-category">AI &amp; Machine Learning</li><li class="devsite-label devsite-label-display-tag-doctype">Case study</li><li class="devsite-label devsite-label-display-tag-language">JavaScript</li><li class="devsite-label devsite-label-display-tag-product">Chrome</li></ul></div><div class="devsite-card-attribution"><div class="devsite-card-attribution-text-container"><p class="devsite-card-attribution-author">Mari Viana</p><p class="devsite-card-attribution-date">May 15, 2025</p></div></div><div class="devsite-card-section"><div class="devsite-card-buttons"><a href="https://developer.chrome.com/blog/summarizer-terra-brightsites?hl=en" class="button" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="CardButton" track-metadata-elementtype="cardButton" track-metadata-position="5" aria-label="Read the study - The Summarizer API helps Bright Sites and Terra create engaging article summaries">Read the study</a></div></div></div></div></div><div class="devsite-card-wrapper" ranking="6" displaytitle="The Summarizer API helps redBus and Miravia create helpful user review summaries" image="https://developer.chrome.com/static/blog/summarizer-redbus-miravia/image/hero.png" iconpath="https://www.gstatic.com/images/branding/productlogos/chrome/v7/192px.svg" iconname="" iconbackgroundcolor="" iconforegroundcolor="" url="https://developer.chrome.com/blog/summarizer-redbus-miravia?hl=en" summary="The Summarizer API lets you generate different types of summaries in varied lengths and formats, such as sentences, paragraphs, bullet point lists, and more." displayorigin="" origin="" timestamp="1747292400" formattedtimestamp="May 15, 2025" project="Blog" public="true" attribution="Cecilia Cong and Hadyan Andika" authorname="Cecilia Cong and Hadyan Andika" type="case_study" displaytype="Case study" categories="" durationminutes="0" formattedduration="" apireferences="" lifecyclestate="" keywords="casestudy,googleai,chrome,aiandmachinelearning,chromebuiltinai,javascript,interest,web" doctype="casestudy" product="chrome" category="aiandmachinelearning,chromebuiltinai,interest,web" language="javascript" display-tag-doctype="Case study" display-tag-product="Chrome" display-tag-language="JavaScript" display-tag-category="AI &amp; Machine Learning"><div class="devsite-card" dynamic-card-timestamp="1747292400"><a href="https://developer.chrome.com/blog/summarizer-redbus-miravia?hl=en" class="devsite-card-image-container devsite-card-image-no-background" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="" track-metadata-elementtype="cardImage" track-metadata-position="6" aria-hidden="true" tabindex="-1"><img src="https://developer.chrome.com/static/blog/summarizer-redbus-miravia/image/hero.png" class="devsite-card-image" loading="lazy" alt=""></a><div class="devsite-card-content-wrapper"><div class="devsite-card-content"><h3 class="no-link hide-from-toc">The Summarizer API helps redBus and Miravia create helpful user review summaries</h3><p class="devsite-card-summary">The Summarizer API lets you generate different types of summaries in varied lengths and formats, such as sentences, paragraphs, bullet point lists, and more.</p><ul class="devsite-dynamic-content-display-tag-container"><li class="devsite-label devsite-label-display-tag-category">AI &amp; Machine Learning</li><li class="devsite-label devsite-label-display-tag-doctype">Case study</li><li class="devsite-label devsite-label-display-tag-language">JavaScript</li><li class="devsite-label devsite-label-display-tag-product">Chrome</li></ul></div><div class="devsite-card-attribution"><div class="devsite-card-attribution-text-container"><p class="devsite-card-attribution-author">Cecilia Cong and Hadyan Andika</p><p class="devsite-card-attribution-date">May 15, 2025</p></div></div><div class="devsite-card-section"><div class="devsite-card-buttons"><a href="https://developer.chrome.com/blog/summarizer-redbus-miravia?hl=en" class="button" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="CardButton" track-metadata-elementtype="cardButton" track-metadata-position="6" aria-label="Read the study - The Summarizer API helps redBus and Miravia create helpful user review summaries">Read the study</a></div></div></div></div></div><div class="devsite-card-wrapper" ranking="7" displaytitle="Improving Google Search with Compression Dictionaries" image="https://developer.chrome.com/static/blog/search-compression-dictionaries/image/thumbnail.png" iconpath="https://www.gstatic.com/images/branding/productlogos/chrome/v7/192px.svg" iconname="" iconbackgroundcolor="" iconforegroundcolor="" url="https://developer.chrome.com/blog/search-compression-dictionaries?hl=en" summary="Learn about how Google Search used Compression Dictionary Transport to boost compression efficiency and improve performance." displayorigin="" origin="" timestamp="1747206000" formattedtimestamp="May 14, 2025" project="Blog" public="true" attribution="Carlos Mateo Munoz and Barry Pollard" authorname="Carlos Mateo Munoz and Barry Pollard" type="case_study" displaytype="Case study" categories="" durationminutes="0" formattedduration="" apireferences="" lifecyclestate="" keywords="chrome,casestudy,web,interest" product="chrome" doctype="casestudy" category="web,interest" display-tag-doctype="Case study" display-tag-product="Chrome"><div class="devsite-card" dynamic-card-timestamp="1747206000"><a href="https://developer.chrome.com/blog/search-compression-dictionaries?hl=en" class="devsite-card-image-container devsite-card-image-no-background" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="" track-metadata-elementtype="cardImage" track-metadata-position="7" aria-hidden="true" tabindex="-1"><img src="https://developer.chrome.com/static/blog/search-compression-dictionaries/image/thumbnail.png" class="devsite-card-image" loading="lazy" alt=""></a><div class="devsite-card-content-wrapper"><div class="devsite-card-content"><h3 class="no-link hide-from-toc">Improving Google Search with Compression Dictionaries</h3><p class="devsite-card-summary">Learn about how Google Search used Compression Dictionary Transport to boost compression efficiency and improve performance.</p><ul class="devsite-dynamic-content-display-tag-container"><li class="devsite-label devsite-label-display-tag-doctype">Case study</li><li class="devsite-label devsite-label-display-tag-product">Chrome</li></ul></div><div class="devsite-card-attribution"><div class="devsite-card-attribution-text-container"><p class="devsite-card-attribution-author">Carlos Mateo Munoz and Barry Pollard</p><p class="devsite-card-attribution-date">May 14, 2025</p></div></div><div class="devsite-card-section"><div class="devsite-card-buttons"><a href="https://developer.chrome.com/blog/search-compression-dictionaries?hl=en" class="button" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="CardButton" track-metadata-elementtype="cardButton" track-metadata-position="7" aria-label="Read the study - Improving Google Search with Compression Dictionaries">Read the study</a></div></div></div></div></div><div class="devsite-card-wrapper" ranking="8" displaytitle="How Policybazaar and JioHotstar use the Translator and Language Detector APIs to build multilingual experiences" image="https://developer.chrome.com/static/blog/pb-jiohotstar-translation-ai/image/cover.png" iconpath="https://www.gstatic.com/images/branding/productlogos/chrome/v7/192px.svg" iconname="" iconbackgroundcolor="" iconforegroundcolor="" url="https://developer.chrome.com/blog/pb-jiohotstar-translation-ai?hl=en" summary="See how Policybazaar and JioHotstar added the Translator and Language Detector APIs to create globally inclusive experiences." displayorigin="" origin="" timestamp="1746687600" formattedtimestamp="May 8, 2025" project="Blog" public="true" attribution="Swetha Gopalakrishnan" authorname="Swetha Gopalakrishnan" type="case_study" displaytype="Case study" categories="" durationminutes="0" formattedduration="" apireferences="" lifecyclestate="" keywords="casestudy,aiandmachinelearning,chrome,googleai,javascript,web,interest" doctype="casestudy" category="aiandmachinelearning,web,interest" product="chrome" language="javascript" display-tag-product="Chrome" display-tag-doctype="Case study" display-tag-language="JavaScript" display-tag-category="AI &amp; Machine Learning"><div class="devsite-card" dynamic-card-timestamp="1746687600"><a href="https://developer.chrome.com/blog/pb-jiohotstar-translation-ai?hl=en" class="devsite-card-image-container devsite-card-image-no-background" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="" track-metadata-elementtype="cardImage" track-metadata-position="8" aria-hidden="true" tabindex="-1"><img src="https://developer.chrome.com/static/blog/pb-jiohotstar-translation-ai/image/cover.png" class="devsite-card-image" loading="lazy" alt=""></a><div class="devsite-card-content-wrapper"><div class="devsite-card-content"><h3 class="no-link hide-from-toc">How Policybazaar and JioHotstar use the Translator and Language Detector APIs to build multilingual experiences</h3><p class="devsite-card-summary">See how Policybazaar and JioHotstar added the Translator and Language Detector APIs to create globally inclusive experiences.</p><ul class="devsite-dynamic-content-display-tag-container"><li class="devsite-label devsite-label-display-tag-category">AI &amp; Machine Learning</li><li class="devsite-label devsite-label-display-tag-doctype">Case study</li><li class="devsite-label devsite-label-display-tag-language">JavaScript</li><li class="devsite-label devsite-label-display-tag-product">Chrome</li></ul></div><div class="devsite-card-attribution"><div class="devsite-card-attribution-text-container"><p class="devsite-card-attribution-author">Swetha Gopalakrishnan</p><p class="devsite-card-attribution-date">May 8, 2025</p></div></div><div class="devsite-card-section"><div class="devsite-card-buttons"><a href="https://developer.chrome.com/blog/pb-jiohotstar-translation-ai?hl=en" class="button" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="CardButton" track-metadata-elementtype="cardButton" track-metadata-position="8" aria-label="Read the study - How Policybazaar and JioHotstar use the Translator and Language Detector APIs to build multilingual experiences">Read the study</a></div></div></div></div></div><div class="devsite-card-wrapper" ranking="9" displaytitle="How eBay improved login success rates by 10% with seamless credential sharing" image="https://developer.chrome.com/static/blog/ebay-digital-asset-links-case-study/image/thumbnail.png" iconpath="https://www.gstatic.com/images/branding/productlogos/chrome/v7/192px.svg" iconname="" iconbackgroundcolor="" iconforegroundcolor="" url="https://developer.chrome.com/blog/ebay-digital-asset-links-case-study?hl=en" summary="Discover how eBay improved login success by 10% using Digital Asset Links for seamless credential sharing. Learn to implement secure, cross-platform authentication and enhance user experience." displayorigin="" origin="" timestamp="1741248000" formattedtimestamp="March 6, 2025" project="Blog" public="true" attribution="Yu Tsuno" authorname="Yu Tsuno" type="case_study" displaytype="Case study" categories="" durationminutes="0" formattedduration="" apireferences="" lifecyclestate="" keywords="casestudy,identity,chrome,interest,web" doctype="casestudy" category="identity,interest,web" product="chrome" display-tag-category="Identity" display-tag-product="Chrome" display-tag-doctype="Case study"><div class="devsite-card" dynamic-card-timestamp="1741248000"><a href="https://developer.chrome.com/blog/ebay-digital-asset-links-case-study?hl=en" class="devsite-card-image-container devsite-card-image-no-background" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="" track-metadata-elementtype="cardImage" track-metadata-position="9" aria-hidden="true" tabindex="-1"><img src="https://developer.chrome.com/static/blog/ebay-digital-asset-links-case-study/image/thumbnail.png" class="devsite-card-image" loading="lazy" alt=""></a><div class="devsite-card-content-wrapper"><div class="devsite-card-content"><h3 class="no-link hide-from-toc">How eBay improved login success rates by 10% with seamless credential sharing</h3><p class="devsite-card-summary">Discover how eBay improved login success by 10% using Digital Asset Links for seamless credential sharing. Learn to implement secure, cross-platform authentication and enhance user experience.</p><ul class="devsite-dynamic-content-display-tag-container"><li class="devsite-label devsite-label-display-tag-category">Identity</li><li class="devsite-label devsite-label-display-tag-doctype">Case study</li><li class="devsite-label devsite-label-display-tag-product">Chrome</li></ul></div><div class="devsite-card-attribution"><div class="devsite-card-attribution-text-container"><p class="devsite-card-attribution-author">Yu Tsuno</p><p class="devsite-card-attribution-date">March 6, 2025</p></div></div><div class="devsite-card-section"><div class="devsite-card-buttons"><a href="https://developer.chrome.com/blog/ebay-digital-asset-links-case-study?hl=en" class="button" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="CardButton" track-metadata-elementtype="cardButton" track-metadata-position="9" aria-label="Read the study - How eBay improved login success rates by 10% with seamless credential sharing">Read the study</a></div></div></div></div></div><div class="devsite-card-wrapper" ranking="10" displaytitle="How NRK uses scroll-driven animations to bring stories to life" image="https://developer.chrome.com/static/blog/nrk-casestudy/image/hero.png" iconpath="https://www.gstatic.com/images/branding/productlogos/chrome/v7/192px.svg" iconname="" iconbackgroundcolor="" iconforegroundcolor="" url="https://developer.chrome.com/blog/nrk-casestudy?hl=en" summary="Learn how scroll-driven and scroll-triggered animations enhance storytelling articles" displayorigin="" origin="" timestamp="1740470400" formattedtimestamp="February 25, 2025" project="Blog" public="true" attribution="Johannes Odland,Harry Theodoulou" authorname="Johannes Odland,Harry Theodoulou" type="case_study" displaytype="Case study" categories="" durationminutes="0" formattedduration="" apireferences="" lifecyclestate="" keywords="chrome,html,css,casestudy,javascript,web,interest" product="chrome" language="html,css,javascript" doctype="casestudy" category="web,interest" display-tag-language="JavaScript,CSS,HTML" display-tag-product="Chrome" display-tag-doctype="Case study"><div class="devsite-card" dynamic-card-timestamp="1740470400"><a href="https://developer.chrome.com/blog/nrk-casestudy?hl=en" class="devsite-card-image-container devsite-card-image-no-background" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="" track-metadata-elementtype="cardImage" track-metadata-position="10" aria-hidden="true" tabindex="-1"><img src="https://developer.chrome.com/static/blog/nrk-casestudy/image/hero.png" class="devsite-card-image" loading="lazy" alt=""></a><div class="devsite-card-content-wrapper"><div class="devsite-card-content"><h3 class="no-link hide-from-toc">How NRK uses scroll-driven animations to bring stories to life</h3><p class="devsite-card-summary">Learn how scroll-driven and scroll-triggered animations enhance storytelling articles</p><ul class="devsite-dynamic-content-display-tag-container"><li class="devsite-label devsite-label-display-tag-doctype">Case study</li><li class="devsite-label devsite-label-display-tag-language">JavaScript</li><li class="devsite-label devsite-label-display-tag-language">CSS</li><li class="devsite-label devsite-label-display-tag-language">HTML</li><li class="devsite-label devsite-label-display-tag-product">Chrome</li></ul></div><div class="devsite-card-attribution"><div class="devsite-card-attribution-text-container"><p class="devsite-card-attribution-author">Johannes Odland,Harry Theodoulou</p><p class="devsite-card-attribution-date">February 25, 2025</p></div></div><div class="devsite-card-section"><div class="devsite-card-buttons"><a href="https://developer.chrome.com/blog/nrk-casestudy?hl=en" class="button" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="CardButton" track-metadata-elementtype="cardButton" track-metadata-position="10" aria-label="Read the study - How NRK uses scroll-driven animations to bring stories to life">Read the study</a></div></div></div></div></div><div class="devsite-card-wrapper" ranking="11" displaytitle="How Google Search uses speculation rules" image="https://developer.chrome.com/static/blog/search-speculation-rules/image/thumbnail.png" iconpath="https://www.gstatic.com/images/branding/productlogos/chrome/v7/192px.svg" iconname="" iconbackgroundcolor="" iconforegroundcolor="" url="https://developer.chrome.com/blog/search-speculation-rules?hl=en" summary="Learn about how Google Search used the Speculation Rules API to anonymously prefetch search results to improve user experience" displayorigin="" origin="" timestamp="1739347200" formattedtimestamp="February 12, 2025" project="Blog" public="true" attribution="Oleksiy Busaryev and Barry Pollard" authorname="Oleksiy Busaryev and Barry Pollard" type="case_study" displaytype="Case study" categories="" durationminutes="0" formattedduration="" apireferences="" lifecyclestate="" keywords="chrome,casestudy,interest,web" product="chrome" doctype="casestudy" category="interest,web" display-tag-product="Chrome" display-tag-doctype="Case study"><div class="devsite-card" dynamic-card-timestamp="1739347200"><a href="https://developer.chrome.com/blog/search-speculation-rules?hl=en" class="devsite-card-image-container devsite-card-image-no-background" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="" track-metadata-elementtype="cardImage" track-metadata-position="11" aria-hidden="true" tabindex="-1"><img src="https://developer.chrome.com/static/blog/search-speculation-rules/image/thumbnail.png" class="devsite-card-image" loading="lazy" alt=""></a><div class="devsite-card-content-wrapper"><div class="devsite-card-content"><h3 class="no-link hide-from-toc">How Google Search uses speculation rules</h3><p class="devsite-card-summary">Learn about how Google Search used the Speculation Rules API to anonymously prefetch search results to improve user experience</p><ul class="devsite-dynamic-content-display-tag-container"><li class="devsite-label devsite-label-display-tag-doctype">Case study</li><li class="devsite-label devsite-label-display-tag-product">Chrome</li></ul></div><div class="devsite-card-attribution"><div class="devsite-card-attribution-text-container"><p class="devsite-card-attribution-author">Oleksiy Busaryev and Barry Pollard</p><p class="devsite-card-attribution-date">February 12, 2025</p></div></div><div class="devsite-card-section"><div class="devsite-card-buttons"><a href="https://developer.chrome.com/blog/search-speculation-rules?hl=en" class="button" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="CardButton" track-metadata-elementtype="cardButton" track-metadata-position="11" aria-label="Read the study - How Google Search uses speculation rules">Read the study</a></div></div></div></div></div><div class="devsite-card-wrapper" ranking="12" displaytitle="How Spotify used the Picture-in-Picture API to build the Spotify Miniplayer" image="https://developer.chrome.com/static/blog/spotify-picture-in-picture/image/hero.jpg" iconpath="https://www.gstatic.com/images/branding/productlogos/chrome/v7/192px.svg" iconname="" iconbackgroundcolor="" iconforegroundcolor="" url="https://developer.chrome.com/blog/spotify-picture-in-picture?hl=en" summary="Learn about the Spotify Miniplayer's transformation from a &quot;canvas hack&quot; to a refined experience enabled by the Document Picture-in-Picture API." displayorigin="" origin="" timestamp="1715583600" formattedtimestamp="May 13, 2024" project="Blog" public="true" attribution="Guido Kessels and Francois Beaufort" authorname="Guido Kessels and Francois Beaufort" type="case_study" displaytype="Case study" categories="" durationminutes="0" formattedduration="" apireferences="" lifecyclestate="" keywords="casestudy,typescript,chrome,web,interest" doctype="casestudy" language="typescript" product="chrome" category="web,interest" display-tag-language="TypeScript" display-tag-product="Chrome" display-tag-doctype="Case study"><div class="devsite-card" dynamic-card-timestamp="1715583600"><a href="https://developer.chrome.com/blog/spotify-picture-in-picture?hl=en" class="devsite-card-image-container devsite-card-image-no-background" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="" track-metadata-elementtype="cardImage" track-metadata-position="12" aria-hidden="true" tabindex="-1"><img src="https://developer.chrome.com/static/blog/spotify-picture-in-picture/image/hero.jpg" class="devsite-card-image" loading="lazy" alt=""></a><div class="devsite-card-content-wrapper"><div class="devsite-card-content"><h3 class="no-link hide-from-toc">How Spotify used the Picture-in-Picture API to build the Spotify Miniplayer</h3><p class="devsite-card-summary">Learn about the Spotify Miniplayer's transformation from a "canvas hack" to a refined experience enabled by the Document Picture-in-Picture API.</p><ul class="devsite-dynamic-content-display-tag-container"><li class="devsite-label devsite-label-display-tag-doctype">Case study</li><li class="devsite-label devsite-label-display-tag-language">TypeScript</li><li class="devsite-label devsite-label-display-tag-product">Chrome</li></ul></div><div class="devsite-card-attribution"><div class="devsite-card-attribution-text-container"><p class="devsite-card-attribution-author">Guido Kessels and Francois Beaufort</p><p class="devsite-card-attribution-date">May 13, 2024</p></div></div><div class="devsite-card-section"><div class="devsite-card-buttons"><a href="https://developer.chrome.com/blog/spotify-picture-in-picture?hl=en" class="button" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="CardButton" track-metadata-elementtype="cardButton" track-metadata-position="12" aria-label="Read the study - How Spotify used the Picture-in-Picture API to build the Spotify Miniplayer">Read the study</a></div></div></div></div></div><div class="devsite-card-wrapper" ranking="13" displaytitle="Container queries case studies" image="https://developer.chrome.com/static/blog/css-ui-ecommerce-cq/image/thumbnail.png" iconpath="https://www.gstatic.com/images/branding/productlogos/chrome/v7/192px.svg" iconname="" iconbackgroundcolor="" iconforegroundcolor="" url="https://developer.chrome.com/blog/css-ui-ecommerce-cq?hl=en" summary="Learn about the benefits of container queries from redBus and Tokopedia." displayorigin="" origin="" timestamp="1715065200" formattedtimestamp="May 7, 2024" project="Blog" public="true" attribution="Swetha Gopalakrishnan, Saurabh Rajpal" authorname="Swetha Gopalakrishnan, Saurabh Rajpal" type="case_study" displaytype="Case study" categories="" durationminutes="0" formattedduration="" apireferences="" lifecyclestate="" keywords="casestudy,chrome,css,javascript,interest,web" doctype="casestudy" product="chrome" language="css,javascript" category="interest,web" display-tag-language="JavaScript,CSS" display-tag-product="Chrome" display-tag-doctype="Case study"><div class="devsite-card" dynamic-card-timestamp="1715065200"><a href="https://developer.chrome.com/blog/css-ui-ecommerce-cq?hl=en" class="devsite-card-image-container devsite-card-image-no-background" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="" track-metadata-elementtype="cardImage" track-metadata-position="13" aria-hidden="true" tabindex="-1"><img src="https://developer.chrome.com/static/blog/css-ui-ecommerce-cq/image/thumbnail.png" class="devsite-card-image" loading="lazy" alt=""></a><div class="devsite-card-content-wrapper"><div class="devsite-card-content"><h3 class="no-link hide-from-toc">Container queries case studies</h3><p class="devsite-card-summary">Learn about the benefits of container queries from redBus and Tokopedia.</p><ul class="devsite-dynamic-content-display-tag-container"><li class="devsite-label devsite-label-display-tag-doctype">Case study</li><li class="devsite-label devsite-label-display-tag-language">JavaScript</li><li class="devsite-label devsite-label-display-tag-language">CSS</li><li class="devsite-label devsite-label-display-tag-product">Chrome</li></ul></div><div class="devsite-card-attribution"><div class="devsite-card-attribution-text-container"><p class="devsite-card-attribution-author">Swetha Gopalakrishnan, Saurabh Rajpal</p><p class="devsite-card-attribution-date">May 7, 2024</p></div></div><div class="devsite-card-section"><div class="devsite-card-buttons"><a href="https://developer.chrome.com/blog/css-ui-ecommerce-cq?hl=en" class="button" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="CardButton" track-metadata-elementtype="cardButton" track-metadata-position="13" aria-label="Read the study - Container queries case studies">Read the study</a></div></div></div></div></div><div class="devsite-card-wrapper" ranking="14" displaytitle="View transitions case studies" image="https://developer.chrome.com/static/blog/css-ui-ecommerce-vt/image/thumbnail.png" iconpath="https://www.gstatic.com/images/branding/productlogos/chrome/v7/192px.svg" iconname="" iconbackgroundcolor="" iconforegroundcolor="" url="https://developer.chrome.com/blog/css-ui-ecommerce-vt?hl=en" summary="redBus, Policybazaar, and Tokopedia all use the View Transition API and benefit from better performance and a smooth UI." displayorigin="" origin="" timestamp="1715065200" formattedtimestamp="May 7, 2024" project="Blog" public="true" attribution="Swetha Gopalakrishnan, Saurabh Rajpal" authorname="Swetha Gopalakrishnan, Saurabh Rajpal" type="case_study" displaytype="Case study" categories="" durationminutes="0" formattedduration="" apireferences="" lifecyclestate="" keywords="javascript,casestudy,css,chrome,interest,web" language="javascript,css" doctype="casestudy" product="chrome" category="interest,web" display-tag-language="JavaScript,CSS" display-tag-product="Chrome" display-tag-doctype="Case study"><div class="devsite-card" dynamic-card-timestamp="1715065200"><a href="https://developer.chrome.com/blog/css-ui-ecommerce-vt?hl=en" class="devsite-card-image-container devsite-card-image-no-background" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="" track-metadata-elementtype="cardImage" track-metadata-position="14" aria-hidden="true" tabindex="-1"><img src="https://developer.chrome.com/static/blog/css-ui-ecommerce-vt/image/thumbnail.png" class="devsite-card-image" loading="lazy" alt=""></a><div class="devsite-card-content-wrapper"><div class="devsite-card-content"><h3 class="no-link hide-from-toc">View transitions case studies</h3><p class="devsite-card-summary">redBus, Policybazaar, and Tokopedia all use the View Transition API and benefit from better performance and a smooth UI.</p><ul class="devsite-dynamic-content-display-tag-container"><li class="devsite-label devsite-label-display-tag-doctype">Case study</li><li class="devsite-label devsite-label-display-tag-language">JavaScript</li><li class="devsite-label devsite-label-display-tag-language">CSS</li><li class="devsite-label devsite-label-display-tag-product">Chrome</li></ul></div><div class="devsite-card-attribution"><div class="devsite-card-attribution-text-container"><p class="devsite-card-attribution-author">Swetha Gopalakrishnan, Saurabh Rajpal</p><p class="devsite-card-attribution-date">May 7, 2024</p></div></div><div class="devsite-card-section"><div class="devsite-card-buttons"><a href="https://developer.chrome.com/blog/css-ui-ecommerce-vt?hl=en" class="button" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="CardButton" track-metadata-elementtype="cardButton" track-metadata-position="14" aria-label="Read the study - View transitions case studies">Read the study</a></div></div></div></div></div><div class="devsite-card-wrapper" ranking="15" displaytitle=":has() case studies" image="https://developer.chrome.com/static/blog/css-ui-ecommerce-has/image/thumbnail.png" iconpath="https://www.gstatic.com/images/branding/productlogos/chrome/v7/192px.svg" iconname="" iconbackgroundcolor="" iconforegroundcolor="" url="https://developer.chrome.com/blog/css-ui-ecommerce-has?hl=en" summary="Find out how Policybazaar and Tokopedia benefit from using :has()." displayorigin="" origin="" timestamp="1715065200" formattedtimestamp="May 7, 2024" project="Blog" public="true" attribution="Swetha Gopalakrishnan, Saurabh Rajpal" authorname="Swetha Gopalakrishnan, Saurabh Rajpal" type="case_study" displaytype="Case study" categories="" durationminutes="0" formattedduration="" apireferences="" lifecyclestate="" keywords="javascript,css,chrome,casestudy,interest,web" language="javascript,css" product="chrome" doctype="casestudy" category="interest,web" display-tag-product="Chrome" display-tag-language="CSS,JavaScript" display-tag-doctype="Case study"><div class="devsite-card" dynamic-card-timestamp="1715065200"><a href="https://developer.chrome.com/blog/css-ui-ecommerce-has?hl=en" class="devsite-card-image-container devsite-card-image-no-background" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="" track-metadata-elementtype="cardImage" track-metadata-position="15" aria-hidden="true" tabindex="-1"><img src="https://developer.chrome.com/static/blog/css-ui-ecommerce-has/image/thumbnail.png" class="devsite-card-image" loading="lazy" alt=""></a><div class="devsite-card-content-wrapper"><div class="devsite-card-content"><h3 class="no-link hide-from-toc">:has() case studies</h3><p class="devsite-card-summary">Find out how Policybazaar and Tokopedia benefit from using :has().</p><ul class="devsite-dynamic-content-display-tag-container"><li class="devsite-label devsite-label-display-tag-doctype">Case study</li><li class="devsite-label devsite-label-display-tag-language">CSS</li><li class="devsite-label devsite-label-display-tag-language">JavaScript</li><li class="devsite-label devsite-label-display-tag-product">Chrome</li></ul></div><div class="devsite-card-attribution"><div class="devsite-card-attribution-text-container"><p class="devsite-card-attribution-author">Swetha Gopalakrishnan, Saurabh Rajpal</p><p class="devsite-card-attribution-date">May 7, 2024</p></div></div><div class="devsite-card-section"><div class="devsite-card-buttons"><a href="https://developer.chrome.com/blog/css-ui-ecommerce-has?hl=en" class="button" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="CardButton" track-metadata-elementtype="cardButton" track-metadata-position="15" aria-label="Read the study - :has() case studies">Read the study</a></div></div></div></div></div><div class="devsite-card-wrapper" ranking="16" displaytitle="Scroll-driven animations case studies" image="https://developer.chrome.com/static/blog/css-ui-ecommerce-sda/image/thumbnail.png" iconpath="https://www.gstatic.com/images/branding/productlogos/chrome/v7/192px.svg" iconname="" iconbackgroundcolor="" iconforegroundcolor="" url="https://developer.chrome.com/blog/css-ui-ecommerce-sda?hl=en" summary="Discover the benefits of Scroll-driven animations with Policybazaar, redBus, and Tokopedia." displayorigin="" origin="" timestamp="1715065200" formattedtimestamp="May 7, 2024" project="Blog" public="true" attribution="Swetha Gopalakrishnan, Saurabh Rajpal" authorname="Swetha Gopalakrishnan, Saurabh Rajpal" type="case_study" displaytype="Case study" categories="" durationminutes="0" formattedduration="" apireferences="" lifecyclestate="" keywords="javascript,casestudy,chrome,css,web,interest" language="javascript,css" doctype="casestudy" product="chrome" category="web,interest" display-tag-doctype="Case study" display-tag-language="CSS,JavaScript" display-tag-product="Chrome"><div class="devsite-card" dynamic-card-timestamp="1715065200"><a href="https://developer.chrome.com/blog/css-ui-ecommerce-sda?hl=en" class="devsite-card-image-container devsite-card-image-no-background" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="" track-metadata-elementtype="cardImage" track-metadata-position="16" aria-hidden="true" tabindex="-1"><img src="https://developer.chrome.com/static/blog/css-ui-ecommerce-sda/image/thumbnail.png" class="devsite-card-image" loading="lazy" alt=""></a><div class="devsite-card-content-wrapper"><div class="devsite-card-content"><h3 class="no-link hide-from-toc">Scroll-driven animations case studies</h3><p class="devsite-card-summary">Discover the benefits of Scroll-driven animations with Policybazaar, redBus, and Tokopedia.</p><ul class="devsite-dynamic-content-display-tag-container"><li class="devsite-label devsite-label-display-tag-doctype">Case study</li><li class="devsite-label devsite-label-display-tag-language">CSS</li><li class="devsite-label devsite-label-display-tag-language">JavaScript</li><li class="devsite-label devsite-label-display-tag-product">Chrome</li></ul></div><div class="devsite-card-attribution"><div class="devsite-card-attribution-text-container"><p class="devsite-card-attribution-author">Swetha Gopalakrishnan, Saurabh Rajpal</p><p class="devsite-card-attribution-date">May 7, 2024</p></div></div><div class="devsite-card-section"><div class="devsite-card-buttons"><a href="https://developer.chrome.com/blog/css-ui-ecommerce-sda?hl=en" class="button" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="CardButton" track-metadata-elementtype="cardButton" track-metadata-position="16" aria-label="Read the study - Scroll-driven animations case studies">Read the study</a></div></div></div></div></div><div class="devsite-card-wrapper" ranking="17" displaytitle="Popover case studies" image="https://developer.chrome.com/static/blog/css-ui-ecommerce-popover/image/thumbnail.png" iconpath="https://www.gstatic.com/images/branding/productlogos/chrome/v7/192px.svg" iconname="" iconbackgroundcolor="" iconforegroundcolor="" url="https://developer.chrome.com/blog/css-ui-ecommerce-popover?hl=en" summary="Tokopedia uses the Popover API to reduce the amount of code in their application." displayorigin="" origin="" timestamp="1713942000" formattedtimestamp="April 24, 2024" project="Blog" public="true" attribution="Swetha Gopalakrishnan, Saurabh Rajpal" authorname="Swetha Gopalakrishnan, Saurabh Rajpal" type="case_study" displaytype="Case study" categories="" durationminutes="0" formattedduration="" apireferences="" lifecyclestate="" keywords="chrome,casestudy,html,javascript,css,web,interest" product="chrome" doctype="casestudy" language="html,javascript,css" category="web,interest" display-tag-language="CSS,JavaScript,HTML" display-tag-doctype="Case study" display-tag-product="Chrome"><div class="devsite-card" dynamic-card-timestamp="1713942000"><a href="https://developer.chrome.com/blog/css-ui-ecommerce-popover?hl=en" class="devsite-card-image-container devsite-card-image-no-background" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="" track-metadata-elementtype="cardImage" track-metadata-position="17" aria-hidden="true" tabindex="-1"><img src="https://developer.chrome.com/static/blog/css-ui-ecommerce-popover/image/thumbnail.png" class="devsite-card-image" loading="lazy" alt=""></a><div class="devsite-card-content-wrapper"><div class="devsite-card-content"><h3 class="no-link hide-from-toc">Popover case studies</h3><p class="devsite-card-summary">Tokopedia uses the Popover API to reduce the amount of code in their application.</p><ul class="devsite-dynamic-content-display-tag-container"><li class="devsite-label devsite-label-display-tag-doctype">Case study</li><li class="devsite-label devsite-label-display-tag-language">CSS</li><li class="devsite-label devsite-label-display-tag-language">JavaScript</li><li class="devsite-label devsite-label-display-tag-language">HTML</li><li class="devsite-label devsite-label-display-tag-product">Chrome</li></ul></div><div class="devsite-card-attribution"><div class="devsite-card-attribution-text-container"><p class="devsite-card-attribution-author">Swetha Gopalakrishnan, Saurabh Rajpal</p><p class="devsite-card-attribution-date">April 24, 2024</p></div></div><div class="devsite-card-section"><div class="devsite-card-buttons"><a href="https://developer.chrome.com/blog/css-ui-ecommerce-popover?hl=en" class="button" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="CardButton" track-metadata-elementtype="cardButton" track-metadata-position="17" aria-label="Read the study - Popover case studies">Read the study</a></div></div></div></div></div><div class="devsite-card-wrapper" ranking="18" displaytitle="How Photoshop solved working with files larger than can fit into memory" image="https://developer.chrome.com/static/blog/how-photoshop-solved-working-with-files-larger-than-can-fit-into-memory/image/thumbnail.png" iconpath="https://www.gstatic.com/images/branding/productlogos/chrome/v7/192px.svg" iconname="" iconbackgroundcolor="" iconforegroundcolor="" url="https://developer.chrome.com/blog/how-photoshop-solved-working-with-files-larger-than-can-fit-into-memory?hl=en" summary="Learn how Adobe managed to let users edit even the biggest files on the web version of its iconic Photoshop app. (This article is also available in form of a video.) In 2021, Adobe, together with Chrome engineering, brought a version of Photoshop to" displayorigin="" origin="" timestamp="1685948400" formattedtimestamp="June 5, 2023" project="Blog" public="true" attribution="Nabeel Al-Shamma" authorname="Nabeel Al-Shamma" type="case_study" displaytype="Case study" categories="" durationminutes="0" formattedduration="" apireferences="" lifecyclestate="" keywords="chrome,casestudy,interest,web" product="chrome" doctype="casestudy" category="interest,web" display-tag-product="Chrome" display-tag-doctype="Case study" hidden=""><div class="devsite-card" dynamic-card-timestamp="1685948400"><a href="https://developer.chrome.com/blog/how-photoshop-solved-working-with-files-larger-than-can-fit-into-memory?hl=en" class="devsite-card-image-container devsite-card-image-no-background" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="" track-metadata-elementtype="cardImage" track-metadata-position="18" aria-hidden="true" tabindex="-1"><img src="https://developer.chrome.com/static/blog/how-photoshop-solved-working-with-files-larger-than-can-fit-into-memory/image/thumbnail.png" class="devsite-card-image" loading="lazy" alt=""></a><div class="devsite-card-content-wrapper"><div class="devsite-card-content"><h3 class="no-link hide-from-toc">How Photoshop solved working with files larger than can fit into memory</h3><p class="devsite-card-summary">Learn how Adobe managed to let users edit even the biggest files on the web version of its iconic Photoshop app. (This article is also available in form of a video.) In 2021, Adobe, together with Chrome engineering, brought a version of Photoshop to</p><ul class="devsite-dynamic-content-display-tag-container"><li class="devsite-label devsite-label-display-tag-doctype">Case study</li><li class="devsite-label devsite-label-display-tag-product">Chrome</li></ul></div><div class="devsite-card-attribution"><div class="devsite-card-attribution-text-container"><p class="devsite-card-attribution-author">Nabeel Al-Shamma</p><p class="devsite-card-attribution-date">June 5, 2023</p></div></div><div class="devsite-card-section"><div class="devsite-card-buttons"><a href="https://developer.chrome.com/blog/how-photoshop-solved-working-with-files-larger-than-can-fit-into-memory?hl=en" class="button" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="CardButton" track-metadata-elementtype="cardButton" track-metadata-position="18" aria-label="Read the study - How Photoshop solved working with files larger than can fit into memory">Read the study</a></div></div></div></div></div><div class="devsite-card-wrapper" ranking="19" displaytitle="How vector image editing app Boxy SVG uses the Local Font Access API to let users pick their favorite local fonts" image="https://developer.chrome.com/static/blog/how-boxysvg-uses-the-local-font-access-api/image/the-boxy-svg-app-editing-813a7400a4a7d.png" iconpath="https://www.gstatic.com/images/branding/productlogos/chrome/v7/192px.svg" iconname="" iconbackgroundcolor="" iconforegroundcolor="" url="https://developer.chrome.com/blog/how-boxysvg-uses-the-local-font-access-api?hl=en" summary="The Local Font Access API provides a mechanism to access the user's locally installed font data, including higher-level details such as names, styles, and families, as well as the raw bytes of the underlying font files. Learn how the SVG editing app" displayorigin="" origin="" timestamp="1685602800" formattedtimestamp="June 1, 2023" project="Blog" public="true" attribution="Thomas Steiner" authorname="Thomas Steiner" type="case_study" displaytype="Case study" categories="" durationminutes="0" formattedduration="" apireferences="" lifecyclestate="" keywords="casestudy,javascript,chrome,web,interest" doctype="casestudy" language="javascript" product="chrome" category="web,interest" display-tag-doctype="Case study" display-tag-product="Chrome" display-tag-language="JavaScript" hidden=""><div class="devsite-card" dynamic-card-timestamp="1685602800"><a href="https://developer.chrome.com/blog/how-boxysvg-uses-the-local-font-access-api?hl=en" class="devsite-card-image-container devsite-card-image-no-background" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="" track-metadata-elementtype="cardImage" track-metadata-position="19" aria-hidden="true" tabindex="-1"><img src="https://developer.chrome.com/static/blog/how-boxysvg-uses-the-local-font-access-api/image/the-boxy-svg-app-editing-813a7400a4a7d.png" class="devsite-card-image" loading="lazy" alt=""></a><div class="devsite-card-content-wrapper"><div class="devsite-card-content"><h3 class="no-link hide-from-toc">How vector image editing app Boxy SVG uses the Local Font Access API to let users pick their favorite local fonts</h3><p class="devsite-card-summary">The Local Font Access API provides a mechanism to access the user's locally installed font data, including higher-level details such as names, styles, and families, as well as the raw bytes of the underlying font files. Learn how the SVG editing app</p><ul class="devsite-dynamic-content-display-tag-container"><li class="devsite-label devsite-label-display-tag-doctype">Case study</li><li class="devsite-label devsite-label-display-tag-language">JavaScript</li><li class="devsite-label devsite-label-display-tag-product">Chrome</li></ul></div><div class="devsite-card-attribution"><div class="devsite-card-attribution-text-container"><p class="devsite-card-attribution-author">Thomas Steiner</p><p class="devsite-card-attribution-date">June 1, 2023</p></div></div><div class="devsite-card-section"><div class="devsite-card-buttons"><a href="https://developer.chrome.com/blog/how-boxysvg-uses-the-local-font-access-api?hl=en" class="button" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="CardButton" track-metadata-elementtype="cardButton" track-metadata-position="19" aria-label="Read the study - How vector image editing app Boxy SVG uses the Local Font Access API to let users pick their favorite local fonts">Read the study</a></div></div></div></div></div><div class="devsite-card-wrapper" ranking="20" displaytitle="How the game editor Construct 3 uses the File System Access API to let users save their games" image="https://developer.chrome.com/static/blog/how-construct3-uses-the-file-system-access-api/image/the-construct-3-app-showi-be2895c6f13b.png" iconpath="https://www.gstatic.com/images/branding/productlogos/chrome/v7/192px.svg" iconname="" iconbackgroundcolor="" iconforegroundcolor="" url="https://developer.chrome.com/blog/how-construct3-uses-the-file-system-access-api?hl=en" summary="The File System Access API allows read, write, and file management capabilities. Learn how Construct 3 makes use of this API. (This article is also available in form of a video.) Construct 3 is a game editor developed by the brothers Thomas and" displayorigin="" origin="" timestamp="1685430000" formattedtimestamp="May 30, 2023" project="Blog" public="true" attribution="Thomas Steiner" authorname="Thomas Steiner" type="case_study" displaytype="Case study" categories="" durationminutes="0" formattedduration="" apireferences="" lifecyclestate="" keywords="javascript,casestudy,chrome,interest,web" language="javascript" doctype="casestudy" product="chrome" category="interest,web" display-tag-product="Chrome" display-tag-language="JavaScript" display-tag-doctype="Case study" hidden=""><div class="devsite-card" dynamic-card-timestamp="1685430000"><a href="https://developer.chrome.com/blog/how-construct3-uses-the-file-system-access-api?hl=en" class="devsite-card-image-container devsite-card-image-no-background" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="" track-metadata-elementtype="cardImage" track-metadata-position="20" aria-hidden="true" tabindex="-1"><img src="https://developer.chrome.com/static/blog/how-construct3-uses-the-file-system-access-api/image/the-construct-3-app-showi-be2895c6f13b.png" class="devsite-card-image" loading="lazy" alt=""></a><div class="devsite-card-content-wrapper"><div class="devsite-card-content"><h3 class="no-link hide-from-toc">How the game editor Construct 3 uses the File System Access API to let users save their games</h3><p class="devsite-card-summary">The File System Access API allows read, write, and file management capabilities. Learn how Construct 3 makes use of this API. (This article is also available in form of a video.) Construct 3 is a game editor developed by the brothers Thomas and</p><ul class="devsite-dynamic-content-display-tag-container"><li class="devsite-label devsite-label-display-tag-doctype">Case study</li><li class="devsite-label devsite-label-display-tag-language">JavaScript</li><li class="devsite-label devsite-label-display-tag-product">Chrome</li></ul></div><div class="devsite-card-attribution"><div class="devsite-card-attribution-text-container"><p class="devsite-card-attribution-author">Thomas Steiner</p><p class="devsite-card-attribution-date">May 30, 2023</p></div></div><div class="devsite-card-section"><div class="devsite-card-buttons"><a href="https://developer.chrome.com/blog/how-construct3-uses-the-file-system-access-api?hl=en" class="button" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="CardButton" track-metadata-elementtype="cardButton" track-metadata-position="20" aria-label="Read the study - How the game editor Construct 3 uses the File System Access API to let users save their games">Read the study</a></div></div></div></div></div><div class="devsite-card-wrapper" ranking="21" displaytitle="How LEGO® Education uses the Web Bluetooth and the Web Serial APIs" image="https://developer.chrome.com/static/blog/lego-education-spike-web-bluetooth-web-serial/image/the-breakdancer-model-ass-d81f84cd25e2c.png" iconpath="https://www.gstatic.com/images/branding/productlogos/chrome/v7/192px.svg" iconname="" iconbackgroundcolor="" iconforegroundcolor="" url="https://developer.chrome.com/blog/lego-education-spike-web-bluetooth-web-serial?hl=en" summary="LEGO Education uses the power of the web to make connecting LEGO models to the computer as simple as possible." displayorigin="" origin="" timestamp="1684738800" formattedtimestamp="May 22, 2023" project="Blog" public="true" attribution="Thomas Steiner" authorname="Thomas Steiner" type="case_study" displaytype="Case study" categories="" durationminutes="0" formattedduration="" apireferences="" lifecyclestate="" keywords="javascript,casestudy,chrome,web,interest" language="javascript" doctype="casestudy" product="chrome" category="web,interest" display-tag-language="JavaScript" display-tag-doctype="Case study" display-tag-product="Chrome" hidden=""><div class="devsite-card" dynamic-card-timestamp="1684738800"><a href="https://developer.chrome.com/blog/lego-education-spike-web-bluetooth-web-serial?hl=en" class="devsite-card-image-container devsite-card-image-no-background" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="" track-metadata-elementtype="cardImage" track-metadata-position="21" aria-hidden="true" tabindex="-1"><img src="https://developer.chrome.com/static/blog/lego-education-spike-web-bluetooth-web-serial/image/the-breakdancer-model-ass-d81f84cd25e2c.png" class="devsite-card-image" loading="lazy" alt=""></a><div class="devsite-card-content-wrapper"><div class="devsite-card-content"><h3 class="no-link hide-from-toc">How LEGO® Education uses the Web Bluetooth and the Web Serial APIs</h3><p class="devsite-card-summary">LEGO Education uses the power of the web to make connecting LEGO models to the computer as simple as possible.</p><ul class="devsite-dynamic-content-display-tag-container"><li class="devsite-label devsite-label-display-tag-doctype">Case study</li><li class="devsite-label devsite-label-display-tag-language">JavaScript</li><li class="devsite-label devsite-label-display-tag-product">Chrome</li></ul></div><div class="devsite-card-attribution"><div class="devsite-card-attribution-text-container"><p class="devsite-card-attribution-author">Thomas Steiner</p><p class="devsite-card-attribution-date">May 22, 2023</p></div></div><div class="devsite-card-section"><div class="devsite-card-buttons"><a href="https://developer.chrome.com/blog/lego-education-spike-web-bluetooth-web-serial?hl=en" class="button" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="CardButton" track-metadata-elementtype="cardButton" track-metadata-position="21" aria-label="Read the study - How LEGO® Education uses the Web Bluetooth and the Web Serial APIs">Read the study</a></div></div></div></div></div><div class="devsite-card-wrapper" ranking="22" displaytitle="How the image editing app Photopea uses the File Handling API to let users open files from their file explorer" image="https://developer.chrome.com/static/blog/how-photopea-uses-the-file-handling-api/image/the-photopea-app-382a49ad75bbf.png" iconpath="https://www.gstatic.com/images/branding/productlogos/chrome/v7/192px.svg" iconname="" iconbackgroundcolor="" iconforegroundcolor="" url="https://developer.chrome.com/blog/how-photopea-uses-the-file-handling-api?hl=en" summary="The File Handling API allows web applications to register themselves as a file handler for file formats the application can support. Learn how the image editing application Photopea makes use of this API. (This article is also available in form of a" displayorigin="" origin="" timestamp="1684134000" formattedtimestamp="May 15, 2023" project="Blog" public="true" attribution="Thomas Steiner" authorname="Thomas Steiner" type="case_study" displaytype="Case study" categories="" durationminutes="0" formattedduration="" apireferences="" lifecyclestate="" keywords="javascript,chrome,casestudy,web,interest" language="javascript" product="chrome" doctype="casestudy" category="web,interest" display-tag-product="Chrome" display-tag-doctype="Case study" display-tag-language="JavaScript" hidden=""><div class="devsite-card" dynamic-card-timestamp="1684134000"><a href="https://developer.chrome.com/blog/how-photopea-uses-the-file-handling-api?hl=en" class="devsite-card-image-container devsite-card-image-no-background" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="" track-metadata-elementtype="cardImage" track-metadata-position="22" aria-hidden="true" tabindex="-1"><img src="https://developer.chrome.com/static/blog/how-photopea-uses-the-file-handling-api/image/the-photopea-app-382a49ad75bbf.png" class="devsite-card-image" loading="lazy" alt=""></a><div class="devsite-card-content-wrapper"><div class="devsite-card-content"><h3 class="no-link hide-from-toc">How the image editing app Photopea uses the File Handling API to let users open files from their file explorer</h3><p class="devsite-card-summary">The File Handling API allows web applications to register themselves as a file handler for file formats the application can support. Learn how the image editing application Photopea makes use of this API. (This article is also available in form of a</p><ul class="devsite-dynamic-content-display-tag-container"><li class="devsite-label devsite-label-display-tag-doctype">Case study</li><li class="devsite-label devsite-label-display-tag-language">JavaScript</li><li class="devsite-label devsite-label-display-tag-product">Chrome</li></ul></div><div class="devsite-card-attribution"><div class="devsite-card-attribution-text-container"><p class="devsite-card-attribution-author">Thomas Steiner</p><p class="devsite-card-attribution-date">May 15, 2023</p></div></div><div class="devsite-card-section"><div class="devsite-card-buttons"><a href="https://developer.chrome.com/blog/how-photopea-uses-the-file-handling-api?hl=en" class="button" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="CardButton" track-metadata-elementtype="cardButton" track-metadata-position="22" aria-label="Read the study - How the image editing app Photopea uses the File Handling API to let users open files from their file explorer">Read the study</a></div></div></div></div></div><div class="devsite-card-wrapper" ranking="23" displaytitle="Case Study: Better Angular Debugging with DevTools" image="https://developer.chrome.com/static/blog/devtools-better-angular-debugging/image/an-animated-gif-showing-d-65208854e5096.gif" iconpath="https://www.gstatic.com/images/branding/productlogos/chrome/v7/192px.svg" iconname="" iconbackgroundcolor="" iconforegroundcolor="" url="https://developer.chrome.com/blog/devtools-better-angular-debugging?hl=en" summary="Using Angular as a test pilot, the Chrome DevTools and Angular teams collaborated to offer you a better debugging experience. Other frameworks can ship similar changes." displayorigin="" origin="" timestamp="1661929200" formattedtimestamp="August 31, 2022" project="Blog" public="true" attribution="Victor Porof" authorname="Victor Porof" type="case_study" displaytype="Case study" categories="" durationminutes="0" formattedduration="" apireferences="" lifecyclestate="" keywords="casestudy,javascript,chrome,web,interest" doctype="casestudy" language="javascript" product="chrome" category="web,interest" display-tag-language="JavaScript" display-tag-product="Chrome" display-tag-doctype="Case study" hidden=""><div class="devsite-card" dynamic-card-timestamp="1661929200"><a href="https://developer.chrome.com/blog/devtools-better-angular-debugging?hl=en" class="devsite-card-image-container devsite-card-image-no-background" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="" track-metadata-elementtype="cardImage" track-metadata-position="23" aria-hidden="true" tabindex="-1"><img src="https://developer.chrome.com/static/blog/devtools-better-angular-debugging/image/an-animated-gif-showing-d-65208854e5096.gif" class="devsite-card-image" loading="lazy" alt=""></a><div class="devsite-card-content-wrapper"><div class="devsite-card-content"><h3 class="no-link hide-from-toc">Case Study: Better Angular Debugging with DevTools</h3><p class="devsite-card-summary">Using Angular as a test pilot, the Chrome DevTools and Angular teams collaborated to offer you a better debugging experience. Other frameworks can ship similar changes.</p><ul class="devsite-dynamic-content-display-tag-container"><li class="devsite-label devsite-label-display-tag-doctype">Case study</li><li class="devsite-label devsite-label-display-tag-language">JavaScript</li><li class="devsite-label devsite-label-display-tag-product">Chrome</li></ul></div><div class="devsite-card-attribution"><div class="devsite-card-attribution-text-container"><p class="devsite-card-attribution-author">Victor Porof</p><p class="devsite-card-attribution-date">August 31, 2022</p></div></div><div class="devsite-card-section"><div class="devsite-card-buttons"><a href="https://developer.chrome.com/blog/devtools-better-angular-debugging?hl=en" class="button" data-category="Site-Wide Custom Events" data-label="devsite-dynamic-content card link" data-action="click" track-type="dynamicCard" track-name="CardButton" track-metadata-elementtype="cardButton" track-metadata-position="23" aria-label="Read the study - Case Study: Better Angular Debugging with DevTools">Read the study</a></div></div></div></div></div></div></devsite-sort><devsite-pagination elements=".devsite-card-wrapper" container="dynamic-content-inner" elements-per-page="9" initial-results="18" buttons="" reset=""><button class="button button-with-icon devsite-pagination-less-button" hidden=""><span class="material-icons" aria-hidden="true">expand_less</span>Less</button><button class="button button-with-icon devsite-pagination-more-button">More<span class="material-icons icon-after" aria-hidden="true">expand_more</span></button></devsite-pagination></div></devsite-dynamic-content>
+
+      </div>
+
+    
+    </div>
+  </section>
+
+  
+
+  
+</div>
+
+  
+
+  <div class="devsite-floating-action-buttons"></div></article>
+
+
+
+
+
+<devsite-notification>
+</devsite-notification>
+
+
+  
+<div class="devsite-content-data">
+  
+  
+    <template class="devsite-content-data-template">
+      [[["Easy to understand","easyToUnderstand","thumb-up"],["Solved my problem","solvedMyProblem","thumb-up"],["Other","otherUp","thumb-up"]],[["Missing the information I need","missingTheInformationINeed","thumb-down"],["Too complicated / too many steps","tooComplicatedTooManySteps","thumb-down"],["Out of date","outOfDate","thumb-down"],["Samples / code issue","samplesCodeIssue","thumb-down"],["Other","otherDown","thumb-down"]],[],[],[]]
+    </template>
+  
+</div>
+            
+          </devsite-content>
+        </main>
+        <devsite-footer-promos class="devsite-footer">
+          
+            
+          
+        </devsite-footer-promos>
+        <devsite-footer-linkboxes class="devsite-footer">
+          
+            
+<nav class="devsite-footer-linkboxes nocontent" aria-label="Footer links">
+  
+  <ul class="devsite-footer-linkboxes-list">
+    
+    <li class="devsite-footer-linkbox ">
+    <h3 class="devsite-footer-linkbox-heading no-link">Contribute</h3>
+      <ul class="devsite-footer-linkbox-list">
+        
+        <li class="devsite-footer-linkbox-item">
+          
+          <a href="https://issuetracker.google.com/issues/new?component=1400036&amp;template=1897236" class="devsite-footer-linkbox-link gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Footer Link (index 1)">
+            
+          
+            File a bug
+          
+          </a>
+          
+          
+        </li>
+        
+        <li class="devsite-footer-linkbox-item">
+          
+          <a href="https://issuetracker.google.com/issues?q=status:open%20componentid:1400036&amp;s=created_time:desc" class="devsite-footer-linkbox-link gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Footer Link (index 2)">
+            
+              
+              
+            
+          
+            See open issues
+          
+          </a>
+          
+          
+        </li>
+        
+      </ul>
+    </li>
+    
+    <li class="devsite-footer-linkbox ">
+    <h3 class="devsite-footer-linkbox-heading no-link">Related content</h3>
+      <ul class="devsite-footer-linkbox-list">
+        
+        <li class="devsite-footer-linkbox-item">
+          
+          <a href="https://blog.chromium.org/" class="devsite-footer-linkbox-link gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Footer Link (index 1)">
+            
+          
+            Chromium updates
+          
+          </a>
+          
+          
+        </li>
+        
+        <li class="devsite-footer-linkbox-item">
+          
+          <a href="/case-studies" class="devsite-footer-linkbox-link gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Footer Link (index 2)">
+            
+          
+            Case studies
+          
+          </a>
+          
+          
+        </li>
+        
+        <li class="devsite-footer-linkbox-item">
+          
+          <a href="/deprecated" class="devsite-footer-linkbox-link gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Footer Link (index 3)">
+            
+          
+            Archive
+          
+          </a>
+          
+          
+        </li>
+        
+        <li class="devsite-footer-linkbox-item">
+          
+          <a href="https://web.dev/shows" class="devsite-footer-linkbox-link gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Footer Link (index 4)">
+            
+              
+              
+            
+          
+            Podcasts &amp; shows
+          
+          </a>
+          
+          
+        </li>
+        
+      </ul>
+    </li>
+    
+    <li class="devsite-footer-linkbox ">
+    <h3 class="devsite-footer-linkbox-heading no-link">Follow</h3>
+      <ul class="devsite-footer-linkbox-list">
+        
+        <li class="devsite-footer-linkbox-item">
+          
+          <a href="https://twitter.com/ChromiumDev" class="devsite-footer-linkbox-link gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Footer Link (index 1)">
+            
+          
+            @ChromiumDev on X
+          
+          </a>
+          
+          
+        </li>
+        
+        <li class="devsite-footer-linkbox-item">
+          
+          <a href="https://www.youtube.com/user/ChromeDevelopers" class="devsite-footer-linkbox-link gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Footer Link (index 2)">
+            
+          
+            YouTube
+          
+          </a>
+          
+          
+        </li>
+        
+        <li class="devsite-footer-linkbox-item">
+          
+          <a href="https://www.linkedin.com/showcase/chrome-for-developers" class="devsite-footer-linkbox-link gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Footer Link (index 3)">
+            
+          
+            Chrome for Developers on LinkedIn
+          
+          </a>
+          
+          
+        </li>
+        
+        <li class="devsite-footer-linkbox-item">
+          
+          <a href="/static/blog/feed.xml" class="devsite-footer-linkbox-link gc-analytics-event" data-category="Site-Wide Custom Events" data-label="Footer Link (index 4)">
+            
+              
+              
+            
+          
+            RSS
+          
+          </a>
+          
+          
+        </li>
+        
+      </ul>
+    </li>
+    
+  </ul>
+  
+</nav>
+          
+        </devsite-footer-linkboxes>
+        <devsite-footer-utility class="devsite-footer">
+          
+            
+
+<div class="devsite-footer-utility nocontent">
+  
+
+  
+  <nav class="devsite-footer-utility-links" aria-label="Utility links">
+    
+    <ul class="devsite-footer-utility-list">
+      
+      <li class="devsite-footer-utility-item
+                 ">
+        
+        
+        <a class="devsite-footer-utility-link gc-analytics-event" href="//policies.google.com/terms" data-category="Site-Wide Custom Events" data-label="Footer Terms link">
+          Terms
+        </a>
+        
+      </li>
+      
+      <li class="devsite-footer-utility-item
+                 ">
+        
+        
+        <a class="devsite-footer-utility-link gc-analytics-event" href="//policies.google.com/privacy" data-category="Site-Wide Custom Events" data-label="Footer Privacy link">
+          Privacy
+        </a>
+        
+      </li>
+      
+      <li class="devsite-footer-utility-item
+                 glue-cookie-notification-bar-control">
+        
+        
+        <a class="devsite-footer-utility-link gc-analytics-event" href="#" data-category="Site-Wide Custom Events" data-label="Footer Manage cookies link" aria-hidden="true">
+          Manage cookies
+        </a>
+        
+      </li>
+      
+    </ul>
+    
+    
+<devsite-language-selector aria-label="Select your language preference.">
+  <ul role="presentation">
+    
+    
+    <li role="presentation">
+      <a role="menuitem" lang="en" aria-current="true" href="https://developer.chrome.com/case-studies">English</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="de" href="https://developer.chrome.com/case-studies?hl=de">Deutsch</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="es-419" href="https://developer.chrome.com/case-studies?hl=es-419">Español – América Latina</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="fr" href="https://developer.chrome.com/case-studies?hl=fr">Français</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="id" href="https://developer.chrome.com/case-studies?hl=id">Indonesia</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="it" href="https://developer.chrome.com/case-studies?hl=it">Italiano</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="nl" href="https://developer.chrome.com/case-studies?hl=nl">Nederlands</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="pl" href="https://developer.chrome.com/case-studies?hl=pl">Polski</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="pt-br" href="https://developer.chrome.com/case-studies?hl=pt-br">Português – Brasil</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="vi" href="https://developer.chrome.com/case-studies?hl=vi">Tiếng Việt</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="tr" href="https://developer.chrome.com/case-studies?hl=tr">Türkçe</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="ru" href="https://developer.chrome.com/case-studies?hl=ru">Русский</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="he" href="https://developer.chrome.com/case-studies?hl=he">עברית</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="ar" href="https://developer.chrome.com/case-studies?hl=ar">العربيّة</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="fa" href="https://developer.chrome.com/case-studies?hl=fa">فارسی</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="hi" href="https://developer.chrome.com/case-studies?hl=hi">हिंदी</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="bn" href="https://developer.chrome.com/case-studies?hl=bn">বাংলা</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="th" href="https://developer.chrome.com/case-studies?hl=th">ภาษาไทย</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="zh-cn" href="https://developer.chrome.com/case-studies?hl=zh-cn">中文 – 简体</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="zh-tw" href="https://developer.chrome.com/case-studies?hl=zh-tw">中文 – 繁體</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="ja" href="https://developer.chrome.com/case-studies?hl=ja">日本語</a>
+    </li>
+    
+    <li role="presentation">
+      <a role="menuitem" lang="ko" href="https://developer.chrome.com/case-studies?hl=ko">한국어</a>
+    </li>
+    
+  </ul>
+</devsite-language-selector>
+
+  </nav>
+</div>
+          
+        </devsite-footer-utility>
+        <devsite-panel style="height: auto;">
+          
+        </devsite-panel>
+        
+      </section>
